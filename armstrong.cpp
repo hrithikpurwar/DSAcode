@@ -11,6 +11,7 @@ int main(){
     while(n>0){
         lastdigit = n%10;
         // sum+= pow(lastdigit,3); According to appni kasha it should run but it didn't
+        //but it runs I suppose
         sum+= lastdigit * lastdigit * lastdigit;
         n=n/10;
     }
