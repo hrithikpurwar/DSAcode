@@ -9,7 +9,7 @@ using namespace std;
 
 int main(){
     string s = "4785951656";
-
+    //sort the vector in decending order using greater<int>()
     sort(s.begin(), s.end(), greater<int>());
 
     cout << s << endl;
