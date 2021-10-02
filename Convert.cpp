@@ -8,7 +8,7 @@
 using namespace std;
 
 int main(){
-    string str = "adrtiewrbcganaxbajiojd";
+    string str = "akitrajbhaiyaa";
 
     //convert into uppercase
 
