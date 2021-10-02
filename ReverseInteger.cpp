@@ -5,6 +5,7 @@ void reverse(int a){
         
     }
 }
+//This is the main function
 int main(){
     int a;
     cout<<"Enter Number:";
