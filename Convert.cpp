@@ -1,5 +1,3 @@
-//Convert uppar case to lower or lower to upper 
-//if value is given like this AghSLoxP then convert all to uppercase or all to lowercase
 
 #include<iostream>
 #include<string>
