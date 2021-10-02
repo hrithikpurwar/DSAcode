@@ -1,4 +1,3 @@
-//Shush Loves Ankit see loves him
 
 #include <iostream>
 using namespace std;
