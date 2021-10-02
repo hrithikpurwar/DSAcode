@@ -9,6 +9,6 @@ int main(){
     int x = stoi(s1);
 
     cout<< x+2 <<endl;
-    
+    // function end and prog starts
     return 0;
 }
