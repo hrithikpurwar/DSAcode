@@ -2,7 +2,7 @@
 #include<string>
 
 using namespace std;
-
+// main function
 int main(){
     string s1 = "786";
 
