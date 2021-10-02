@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+// main starts here
 int main(){
     int n;
     cin>>n;
