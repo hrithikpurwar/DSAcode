@@ -9,6 +9,7 @@ int main(){
         for(int j=1; j<=i; j++){
             cout<<count<<" ";
             count++;
+            //increament of count for each iterator
         }
         cout<<endl;
     }
