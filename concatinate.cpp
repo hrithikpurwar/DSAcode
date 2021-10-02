@@ -11,6 +11,7 @@ int main(){
     //  s1 = s1 + s2;
      cout<< s1 <<endl;
     //  cout<< s1 + s2 <<endl;
+//append the string for required output
 
     cout << s1[1] <<endl; //charater access
 
