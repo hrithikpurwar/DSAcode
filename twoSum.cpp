@@ -9,7 +9,7 @@ int main(){
     for(int i=0; i<n; i++){
         cin>>arr[i];
     }
-    
+    // cout starts here
     cout<<"enter the target number:";
     cin>> targ;
     for(int i=0; i<n; i++){
