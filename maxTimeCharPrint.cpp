@@ -6,7 +6,7 @@ using namespace std;
 
 int main(){
     string s = "cjfkguckntnvvvvvvvvszgdghfffffxddvgugreuqeiqdb";
-
+ // hello
     int freq[26];
 
     for(int i=0; i<26; i++)
