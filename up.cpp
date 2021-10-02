@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+// nice code
 int main(){
     #ifndef ONLINE_JUDGE
         freopen("input.txt","r",stdin);
