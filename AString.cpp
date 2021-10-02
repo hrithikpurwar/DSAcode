@@ -6,10 +6,6 @@
 using namespace std;
 
 int main(){
-    // INPUT/OUTPUT METHOD OF STRING
-    // string str;
-    // cin >> str;
-    // cout << str;
 
     // DIFFRENT WAY TO TAKE INPUT IN STRING
     // string str1(5, 'n');
