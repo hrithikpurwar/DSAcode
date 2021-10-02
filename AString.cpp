@@ -1,5 +1,4 @@
-//Simliar as character array
-//String is part of STL
+
 #include<iostream>
 #include<string>
 
